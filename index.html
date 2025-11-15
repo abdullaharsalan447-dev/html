@@ -1,19 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Student Management system</title>
-  <link rel="styleesheet"herf="stle.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Example</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <h1>Studentmanagement system</h1>
-    
-    <form id="studentForm">
-    <div class="Form -group">
-    <label for="name"
-    </form>
-  
+
+    <div class="form-container">
+        <h2>Contact Us</h2>
+
+        <form id="contactForm">
+            <div class="input-group">
+                <label>Name</label>
+                <input type="text" id="name" placeholder="Enter your name" required>
+            </div>
+
+            <div class="input-group">
+                <label>Email</label>
+                <input type="email" id="email" placeholder="Enter your email" required>
+            </div>
+
+            <div class="input-group">
+                <label>Message</label>
+                <textarea id="message" placeholder="Write your message" required></textarea>
+            </div>
+
+            <button type="submit" class="btn">Submit</button>
+        </form>
+
+        <p id="status"></p>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
