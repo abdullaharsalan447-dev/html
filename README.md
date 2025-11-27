@@ -9,3 +9,7 @@ A well-designed navbar enhances the overall user experience by ensuring effortle
 ⭐ Short Description (if needed)
 
 A navbar is a website’s top navigation section that contains links to important pages. It helps users move around the site easily and adjusts to different screen sizes for a better browsing experience.
+Lorem Ipsum – Paragraph 3
+“Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?”
+
+If you meant something else—such as removing paragraph 3 from a document—just let me know!
